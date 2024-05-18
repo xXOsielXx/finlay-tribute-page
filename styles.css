@@ -41,7 +41,7 @@ header {
 }
 
 #tribute-info {
-  padding: 32px
+  padding: 32px;
 }
 
 h2 {
@@ -60,7 +60,9 @@ li {
 
 #more-info {
   font-size: 1.15em;
-  margin-bottom: -32px
+  padding: 32px;
+  margin-bottom: -32px;
+  background-color: lightgray;
 }
 
 @media only screen and (min-width: 600px) {
